@@ -1,11 +1,11 @@
 class Solver
-  def factorial(n)
-    if n.negative?
+  def factorial(num)
+    if num.negative?
       raise ArgumentError, 'negative number not allowed'
-    elsif n.zero?
+    elsif num.zero?
       1
     else
-      n * factorial(n - 1)
+      num * factorial(num - 1)
     end
   end
 
@@ -21,7 +21,7 @@ class Solver
     elsif (number % 5).zero?
       'buzz'
     else
-      number.to_
+      number.to_s
     end
   end
 end

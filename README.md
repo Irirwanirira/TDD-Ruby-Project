@@ -28,9 +28,8 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [OOP School Library] <a name="about-project"></a>
-
-
+# 📖 [TDD-Ruby-Project] <a name="about-project"></a>
+> This is a ruby project where we implement a class with some methods, and do test-driven development (TDD)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -112,7 +111,7 @@ If you like this project...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
